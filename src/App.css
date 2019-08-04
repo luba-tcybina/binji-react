@@ -1,0 +1,12 @@
+body {
+  background: url('./images/background.jpg') no-repeat;
+  background-size: cover;
+}
+.main-component {
+  text-align: center;
+  padding: 260px 0;
+}
+.footer {
+  text-align: center;
+  width: 100%;
+}
